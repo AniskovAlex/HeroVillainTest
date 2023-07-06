@@ -18,7 +18,11 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 150081716224
+  - m_Id: 3334523142144
+    m_Localized: Click on the wagon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1821159538688
     m_Localized: Change level
     m_Metadata:
       m_Items: []

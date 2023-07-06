@@ -15,8 +15,12 @@ MonoBehaviour:
   m_TableCollectionName: Game
   m_TableCollectionNameGuidString: ec2f2f3278d33a44baaf3238d704836f
   m_Entries:
-  - m_Id: 150081716224
-    m_Key: Change Level
+  - m_Id: 1821159538688
+    m_Key: scene_town/GUI/button_change_level/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3334523142144
+    m_Key: scene_town/GUI/Text (TMP)
     m_Metadata:
       m_Items: []
   m_Metadata:
